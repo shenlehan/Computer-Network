@@ -1,2 +1,2 @@
 # The Computer Network
-This repo mainly includes my code for learning the book _Computer Network: A Top to Down Approach_
+This repository contains all my learning materials for the book _Computer Network: A Top to Down Approach_, including the `Wireshark` lab, the socket programming code and the lab from _Stanford CS144: Computer Network_. 
